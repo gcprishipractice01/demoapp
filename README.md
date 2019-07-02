@@ -16,7 +16,7 @@ Flask based demo app.
 - open your browser with below URL <br />
     - http://127.0.0.1/           <br /># It will display output as "Welcome to Demo app" <br />
     - http://127.0.0.1/hostname   <br /># It will display hostname of system <br />
-    - http://127.0.0.1/status     <br /># It will status of app <br />
+    - http://127.0.0.1/status     <br /># It will display status of app <br />
 
 - Can also use curl command for testsing<br />
   'curl http://127.0.0.1'
