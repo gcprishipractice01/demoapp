@@ -14,9 +14,9 @@ Flask based demo app.
 
 ## How to confirm running app
 - open your browser with below URL <br />
-    http://127.0.0.1/    # It will display output as "Welcome to Demo app" <br />
-    http://127.0.0.1/hostname # It will display hostname of system <br />
-    http://127.0.0.1/status # It will status of app <br />
+    http://127.0.0.1/           # It will display output as "Welcome to Demo app" <br />
+    http://127.0.0.1/hostname   # It will display hostname of system <br />
+    http://127.0.0.1/status     # It will status of app <br />
 
 - Can also use curl command for testsing
   'curl http://127.0.0.1'
