@@ -3,7 +3,7 @@ Flask based demo app.
 
 ## Prerequisite
  - Python3
- - pip3<
+ - pip3
 
 ## How to install
 - Clone project 
